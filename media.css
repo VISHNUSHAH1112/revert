@@ -1,0 +1,2438 @@
+@media(min-width:384px)
+{
+    *{
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+    }
+    body
+    {
+        height: 100vh;
+        background-color: rgb(254, 250, 240);
+    } 
+    .navbar
+    {
+        width: 100%;
+    }
+    .navbar .navbarlist
+    {
+        height: 60px;
+        width: 80%;
+    
+        margin: auto;
+    }
+    ul
+    {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px 10px;
+    }
+    ul li
+    {
+        list-style: none;
+    }
+    ul li a
+    {
+        color:black;
+        text-decoration: none;
+    
+    }
+    .line
+    {
+        height: 1016px;
+        width: 100%;
+    
+    }
+    .line .revert
+    {
+        height: 450px;
+        width: 100%;
+    }
+    .line .re
+    {
+    
+        position: relative;
+        /* transform: translate(-50 -50); */
+        color: rgb(255, 253, 195);
+        bottom: 360px;
+        text-align: center;
+    
+        font-size: 85px;
+    }
+    .line .home
+    {
+        color: white;
+        font-size: 25px;
+        position: relative;
+        bottom: 340px;
+        left: 8%;
+        /* padding-left: 15%; */
+    }
+    .line .sn
+    {
+        position: relative;
+        bottom: 600px;
+        height: 40px;
+        width: 120px;
+        border-radius: 20px;
+        border: none;
+        cursor: pointer;
+        left: 45px;
+    }
+    .new
+    {
+        position: relative;
+        bottom: 520px;
+        text-align: center;
+    
+        font-size: 30px;
+    }
+    /* .main
+    {
+        position: relative;
+        height: 500px;
+        width: 85%;
+        background-color: rgb(254, 250, 240);
+    
+        margin: auto;
+        top: 45px;
+        display: flex;
+    } */
+    a
+    {
+        text-decoration: none;
+        color: black;
+    }
+    .glass
+    {
+        height: 350px;
+        width: 280px;
+        border-radius: 20px;
+        position: relative;
+        bottom: 455px;
+        margin-left: 14%;
+    }
+    .eco
+    {
+        position: relative;
+        bottom: 450px;
+        /* padding-left: 110px; */
+        margin-left: 140px;
+    }
+    .d1
+    {
+        position: relative;
+        bottom: 445px;
+        /* padding-left: 135px; */
+        margin-left: 160px;
+    }
+    .soap
+    {
+        height: 350px;
+        width: 280px;
+        border-radius: 20px;
+        position: relative;
+        bottom: 410px;
+        margin-left: 14%;
+    }
+    .natural
+    {
+        position: relative;
+        bottom: 400px;
+        /* left: 80px; */
+        margin-left: 100px;
+    }
+    .d2
+    {
+        position: relative;
+        bottom: 400px;
+        /* left: 135px; */
+        margin-left: 145px;
+    }
+    .bottle
+    {
+        height: 350px;
+        width: 280px;
+        border-radius: 20px;
+        position: relative;
+        bottom: 380px;
+        margin-left: 14%;
+    }
+    .stainless
+    {
+        position: relative;
+        bottom: 380px;
+        /* left: 50px; */
+        margin-left: 100px;
+    }
+    .d3
+    {
+        position: relative;
+        bottom: 370px;
+        /* left: 130px; */
+        margin-left: 150px;
+    }
+    .sponge
+    {
+        height: 350px;
+        width: 280px;
+        border-radius: 20px;
+        position: relative;
+        bottom: 350px;
+        margin-left: 14%;
+    }
+    .kitchen
+    {
+        position: relative;
+        bottom: 340px;
+        /* left: 40px; */
+        margin-left: 70px;
+    }
+    .d4
+    {
+        position: relative;
+        bottom: 330px;
+        /* left: 150px; */
+        margin-left: 140px;
+    }
+    
+     .two
+     {
+        position: relative;
+        bottom: 253px;
+        height: 600px;
+        width: 100%;
+        background-color: rgb(196, 193, 151);
+     }
+     .two .waste
+     {
+        position: relative;
+        font-size: 45px;
+        bottom: -10px;
+        padding-left: 15%;
+        color: rgb(64, 63, 43);
+    
+     }
+     .two .friendly
+     {
+        position: relative;
+        font-size: 20px;
+        bottom: -40px;
+        padding-left: 15%;
+    
+     }
+     .two .zero
+     {
+        position: relative;
+        height: 250px;
+        width: 300px;
+        border-radius: 50px ;
+    
+        top: 160px;
+        left: 11.5%;
+    
+     }
+     .two .now
+     {
+        height: 45px;
+        width: 120px;
+        border: none;
+        border-radius: 20px;
+        position: relative;
+        bottom: 30%;
+        left: 32%;
+        background-color: rgb(64, 63, 43);
+    
+     }
+     .two .s
+     {
+        color: white;
+     }
+     .shop
+     {
+        position: relative;
+        top: -200px;
+        padding-left: 22.5%;
+    
+        
+     }
+     .main2
+     {
+        height: auto;
+        width: 100%;
+    
+        margin: auto;
+        position: relative;
+        top: -100px;
+        display: flex;
+        flex-direction: column;
+        background-color: rgb(254, 250, 240);
+     }
+     .main2 .box5
+     {
+        height: 350px;
+        width: 300px;
+    
+        position: relative;
+        border-radius: 20px;
+        top: 25px;
+        left: 45px;
+        background-image: url(img/kitchen.jpg);
+        background-position: center;
+        background-size: cover;
+    
+     }
+     .main2 .k
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 50px;
+        top: 35%;
+        left: 85px;
+     }
+     .main2 .k1
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 22px;
+        top: 40%;
+        left: 90px;
+     }
+     .main2 .box6
+     {
+        height: 400px;
+        width: 300px;
+    
+        position: relative;
+        border-radius: 20px;
+        top: 50px;
+        left: 40px;
+        background-image: url(img/bath.jpg);
+        background-position: center;
+        background-size: cover;
+     }
+     .main2 .l
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 50px;
+        top: 35%;
+        left: 100px;
+     }
+     .main2 .l1
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 22px;
+        top: 40%;
+        left: 100px;
+     }
+     .main2 .box7
+     {
+        height: 400px;
+        width: 300px;
+    
+        position: relative;
+        border-radius: 20px;
+        top: 60px;
+        left: 40px;
+        background-image: url(img/on\ the\ go.jpg);
+        background-position: center;
+        background-size: cover;
+     }
+     .main2 .m
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 50px;
+        top: 35%;
+        left: 60px;
+     }
+     .main2 .m1
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 22px;
+        top: 40%;
+        left: 90px;
+     }
+     .main3
+     {
+        height: auto;
+        width: 100%;
+    
+        background-color: rgb(221, 221, 204);
+        position: relative;
+        /* top: 10px; */
+     }
+     .main3 .r
+     {
+        position: relative;
+        top: 45px;
+    
+        padding-left: 15%;
+        font-size: 16px;
+        color: rgb(64, 63, 43);
+     }
+     .main3 .we
+     {
+        position: relative;
+        top: 55px;
+        padding-left: 8%;
+    
+        font-size:16px;
+        color: rgb(64, 63, 43);
+     }
+     .main3 .s
+     {
+        position: relative;
+        top: 85px;
+        left: 5%;
+     }
+     .main3 .sus
+     {
+        position: relative;
+        top: 85px;
+        padding-left: 17.5%;
+    
+     }
+     .main3 .z
+     {
+        position: relative;
+        top: -75px;
+        left: 50%;
+     }
+     .main3 .veg
+     {
+        position: relative;
+        top: -75px;
+    
+        padding-left: 65%;
+     }
+     .main3 .v
+     {
+        height: 80px;
+        position: relative;
+        top: -50px;
+        left: 5%;
+     }
+     .main3 .rec
+     {
+        position: relative;
+        top: -55px;
+        padding-left: 8%;
+    
+     }
+     .main3 .rey
+     {
+        height: 80px;
+        position: relative;
+        top: -150px;
+        left: 35%;
+     }
+     .main3 .trade
+     {
+        position: relative;
+        top: -150px;
+    
+        padding-left: 35%;
+     }
+     .main3 .fair
+     {
+        height: 80px;
+        position: relative;
+        top: -250px;
+        left: 62%;
+     }
+     .main3 .waste
+     {
+        position: relative;
+        top: -255px;
+    
+        padding-left: 70%;
+     }
+     .main3 .p
+     {
+        position: relative;
+        bottom: 220px;
+    
+        word-spacing: 3.5px;
+        height: 100px;
+        width: 90%;
+        margin: auto;
+    
+     }
+     .main3 .p1
+     {
+        position: relative;
+        bottom: 120px;
+    
+        word-spacing: 3.5px;
+        height: 100px;
+        width: 90%;
+        margin: auto;
+    
+     }
+     .main3 .mo
+     {
+        height: 43px;
+        width: 130px;
+        border-radius: 20px;
+        border: none;
+        background-color: rgb(64, 63, 43);
+        position: relative;
+        bottom: 10%;
+        left: 30%;
+     }
+     .main3 .mo .i
+     {
+        color: white;
+     }
+     .line2
+     {
+        height: 450px;
+        /* width: 100%; */
+    
+        background-color: rgb(254, 250, 240);
+     }
+    .line2 .week
+     {
+        height: 400px;
+        width: 290px;
+        margin-top: 18%;
+        margin-left: 13%;
+        border-radius: 50px;
+        background-image: url(img/weekend\ sale.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+        border: 1px solid black;
+     }
+     .line2 .week .happ
+     {
+        color: white;
+        font-size: 25px;
+        position: relative;
+        top: 30%;
+        left: 25%;
+     }
+     .line2 .week .sale
+     {
+        color: white;
+        font-size: 40px;
+        position: relative;
+        top: 30%;
+        left: 10%;
+        color: rgb(196, 193, 151);
+     }
+     .line2 .week .sh
+     {
+        height: 43px;
+        width: 180px;
+        border-radius: 20px;
+        position: relative;
+        top: 35%;
+        cursor: pointer;
+        border: none;
+        left: 20%;
+     }
+     .border4 {
+        height: 1780px;
+        width: 100%;
+        background-color: rgb(232, 229, 155);
+    
+        position: relative;
+        /* bottom: -2.5%; */
+    
+    }
+    
+    .follow {
+        position: relative;
+        top: 15px;
+    
+        padding-left: 30%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: rgb(64, 63, 43);
+    }
+    
+    .aq {
+        position: relative;
+        top: 15px;
+        color: rgb(64, 63, 43);
+        font-size: 40px;
+        left: 30%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    .img1 {
+        height: 250px;
+        width: 250px;
+    
+        position: relative;
+        top: 25px;
+        left: 15%;
+        border-radius: 20px;
+        background-image: url(img/img1.png);
+        background-position: center;
+        background-size: cover;
+    }
+    
+    .img2 {
+        height: 250px;
+        width: 250px;
+    
+        position: relative;
+        top: 35px;
+        left: 15%;
+        border-radius: 20px;
+        background-image: url(img/img2.png);
+        background-position: center;
+        background-size: cover;
+    }
+    
+    .img3 {
+        height: 250px;
+        width: 250px;
+    
+        position: relative;
+        top: 45px;
+        left: 17%;
+        border-radius: 20px;
+        background-image: url(img/img3.png);
+        background-position: center;
+        background-size: cover;
+    }
+    
+    .img4 {
+        height: 250px;
+        width: 250px;
+    
+        position: relative;
+        top: 50px;
+        left: 17%;
+        border-radius: 20px;
+        background-image: url(img/img4.png);
+        background-position: center;
+        background-size: cover;
+    } 
+    
+    .border5 {
+        height: 1px;
+        width: 100%;
+        border: 1px solid black;
+        /* background-color: black; */
+        position: relative;
+        top: 85px;
+    }
+    
+    .stay {
+        position: relative;
+        top: 90px;
+        padding-left: 6%;
+    
+        font-size: 25px;
+        color: rgb(64, 63, 43);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    .receive {
+        position: relative;
+        top: 100px;
+        padding-left: 6%;
+    
+        font-size: 20px;
+        color: rgb(64, 63, 43);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    .em {
+        position: relative;
+        top: 113px;
+        left: 6%;
+    }
+    
+    .in {
+        position: relative;
+        top: 140px;
+        /* left: 2.5%; */
+        width: 100%;
+        height: 45px;
+        background-color: rgb(232, 229, 155);
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: 0.5px solid black;
+    }
+    
+    .sub {
+        position: relative;
+        top: 150px;
+        left: 0%;
+        height: 60px;
+        width: 100%;
+        border-radius: 50px;
+        background-color: rgb(232, 229, 155);
+        color: rgb(64, 63, 43);
+        font-size: 25px;
+        cursor: pointer;
+    }
+    
+    .sub:hover {
+        background-color: rgb(64, 63, 43);
+        color: rgb(232, 229, 155);
+        border: none;
+        cursor: pointer;
+    } 
+    
+    .home1 {
+        position: relative;
+        top: 160px;
+        left: 10%;
+    }
+    
+    .all {
+        position: relative;
+        top: 165px;
+       left: 10%;
+       word-spacing: 2px;
+    }
+    
+    .mission {
+        position: relative;
+        top: 170px;
+        left: 10%;
+    } 
+    
+    .contact {
+        position: relative;
+        top: 175px;
+        left: 10%;
+    } 
+     
+    .faq {
+        position: relative;
+        top: 180px;
+        left: 10%;
+    } 
+    
+    .ki {
+        position: relative;
+        top: 68px;
+        left: 55%;
+    }
+     
+    .bh {
+        position: relative;
+        top: 68px;
+        left: 55%;
+    }
+    
+    .og {
+        position: relative;
+        top: 68px;
+        left: 55%;
+    
+    } 
+    
+    .sale {
+        position: relative;
+        top: 68px;
+        left:55%;
+    } 
+    
+     .tc {
+        position: relative;
+        top: 150px;
+        left: 10%;
+    }
+    
+    .pp {
+        position: relative;
+        top: 150px;
+        left: 10%;
+    } 
+    
+    .spn {
+        position: relative;
+        top: 150px;
+        left: 10%;
+    } 
+    
+    .rp
+    {
+        position: relative;
+        top: 150px;
+        left: 10%;
+    } 
+    
+    .cp {
+        position: relative;
+        top: 150px;
+        left: 10%;
+    }
+}
+@media(min-width:481px)
+{
+    *{
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+    }
+    body
+    {
+        height: 100vh;
+        background-color: rgb(254, 250, 240);
+    } 
+    .navbar
+    {
+        width: 100%;
+    }
+    .navbar .navbarlist
+    {
+        height: 60px;
+        width: 80%;
+    
+        margin: auto;
+    }
+    ul
+    {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px 10px;
+    }
+    ul li
+    {
+        list-style: none;
+    }
+    ul li a
+    {
+        color:black;
+        text-decoration: none;
+    
+    }
+    .line
+    {
+        height: 1016px;
+        width: 100%;
+    
+    }
+    .line .revert
+    {
+        height: 450px;
+        width: 100%;
+    }
+    .line .re
+    {
+    
+        position: relative;
+        /* transform: translate(-50 -50); */
+        color: rgb(255, 253, 195);
+        bottom: 360px;
+        text-align: center;
+    
+        font-size: 85px;
+    }
+    .line .home
+    {
+        color: white;
+        font-size: 25px;
+        position: relative;
+        bottom: 340px;
+        left: 10%;
+        /* padding-left: 15%; */
+    }
+    .line .sn
+    {
+        position: relative;
+        top: -400px;
+        left: 75%;
+        /* padding-left: 25%; */
+        /* padding-left: 25%; */
+        height: 40px;
+        width: 120px;
+        border-radius: 20px;
+        border: none;
+        cursor: pointer;
+    }
+    .new
+    {
+        position: relative;
+        bottom: 520px;
+        text-align: center;
+    
+        font-size: 30px;
+    }
+    /* .main
+    {
+        position: relative;
+        height: 500px;
+        width: 85%;
+        background-color: rgb(254, 250, 240);
+    
+        margin: auto;
+        top: 45px;
+        display: flex;
+    } */
+    .main
+    {
+        position: relative;
+        height: 1400px;
+        width: 90%;
+        background-color: rgb(254, 250, 240);
+    
+        margin: auto;
+        /* padding: 20px; */
+        top: 45px;
+        display: flex;
+        flex-direction: column;
+    }
+    a
+    {
+        text-decoration: none;
+        color: black;
+    }
+    .glass
+    {
+        height: 300px;
+        width: 200px;
+        border-radius: 20px;
+        position: relative;
+        bottom: 530px;
+        left: -15%;
+    }
+    .eco
+    {
+        position: relative;
+        bottom: 510px;
+        margin-left: 40px;
+    }
+    .d1
+    {
+        position: relative;
+        bottom: 500px;
+        margin-left: 70px;
+    }
+    .soap
+    {
+        height: 300px;
+        width: 200px;
+        border-radius: 20px;
+        position: relative;
+        bottom: 876px;
+        left: 40.5%;
+    }
+    .natural
+    {
+        position: relative;
+        bottom: 860px;
+        margin-left: 260px;
+    }
+    .d2
+    {
+        position: relative;
+        bottom: 850px;
+        margin-left: 310px;
+    }
+    .bottle
+    {
+        height: 300px;
+        width: 200px;
+        border-radius: 20px;
+        position: relative;
+        bottom: 810px;
+        left: -15%;
+    }
+    .stainless
+    {
+        position: relative;
+        bottom: 805px;
+        margin-left: 20px;
+    }
+    .d3
+    {
+        position: relative;
+        bottom: 800px;
+        margin-left: 75px;
+    }
+    .sponge
+    {
+        height: 300px;
+        width: 200px;
+        border-radius: 20px;
+        position: relative;
+        bottom: 1157px;
+        left: 40.5%;
+    }
+    .kitchen
+    {
+        position: relative;
+        bottom: 1150px;
+        margin-left: 250px;
+        width: 40%;
+    }
+    .d4
+    {
+        position: relative;
+        bottom: 1150px;
+        margin-left: 300px;
+    }
+    
+     .two
+     {
+        position: relative;
+        bottom: 1053px;
+        height: 600px;
+        width: 100%;
+        background-color: rgb(196, 193, 151);
+     }
+     .two .waste
+     {
+        position: relative;
+        font-size: 45px;
+        bottom: -10px;
+        padding-left: 25%;
+        color: rgb(64, 63, 43);
+    
+     }
+     .two .friendly
+     {
+        position: relative;
+        font-size: 20px;
+        bottom: -40px;
+        padding-left: 20%;
+    
+     }
+     .two .zero
+     {
+        position: relative;
+        height: 250px;
+        width: 350px;
+        border-radius: 50px ;
+    
+        top: 160px;
+        left: 15%;
+    
+     }
+     .two .now
+     {
+        height: 45px;
+        width: 120px;
+        border: none;
+        border-radius: 20px;
+        position: relative;
+        bottom: 25%;
+        left: -35%;
+        background-color: rgb(64, 63, 43);
+    
+     }
+     .two .s
+     {
+        color: white;
+     }
+     .shop
+     {
+        position: relative;
+        top: -1000px;
+        padding-left: 25.5%;
+    
+        
+     }
+     .main2
+     {
+        height: auto;
+        width: 100%;
+    
+        margin: auto;
+        position: relative;
+        top: -100px;
+        display: flex;
+        flex-direction: column;
+        background-color: rgb(254, 250, 240);
+     }
+     .main2 .box5
+     {
+        height: 300px;
+        width: 200px;
+    
+        position: relative;
+        border-radius: 20px;
+        top: -850px;
+        left: 11px;
+        background-image: url(img/kitchen.jpg);
+        background-position: center;
+        background-size: cover;
+    
+     }
+     .main2 .k
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 50px;
+        top: 35%;
+        left: 25px;
+     }
+     .main2 .k1
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 22px;
+        top: 40%;
+        left: 25px;
+     }
+     .main2 .box6
+     {
+        height: 300px;
+        width: 200px;
+    
+        position: relative;
+        border-radius: 20px;
+        top: -1150px;
+        left: 270px;
+        background-image: url(img/bath.jpg);
+        background-position: center;
+        background-size: cover;
+     }
+     .main2 .l
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 50px;
+        top: 35%;
+        left: 50px;
+     }
+     .main2 .l1
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 22px;
+        top: 40%;
+        left: 40px;
+     }
+     .main2 .box7
+     {
+        height: 300px;
+        width: 455.5px;
+    
+        position: relative;
+        border-radius: 20px;
+        top: -1100px;
+        left: 11px;
+        background-image: url(img/on\ the\ go.jpg);
+        background-position: center;
+        background-size: cover;
+     }
+     .main2 .m
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 50px;
+        top: 35%;
+        left: 125px;
+     }
+     .main2 .m1
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 22px;
+        top: 40%;
+        left: 165px;
+     }
+     .main3
+     {
+        height: auto;
+        width: 100%;
+    
+        background-color: rgb(221, 221, 204);
+        position: relative;
+        top: -1100px;
+     }
+     .main3 .r
+     {
+        position: relative;
+        top: 45px;
+    
+        padding-left: 25%;
+        font-size: 16px;
+        color: rgb(64, 63, 43);
+     }
+     .main3 .we
+     {
+        position: relative;
+        top: 55px;
+        padding-left: 25%;
+    
+        font-size:16px;
+        color: rgb(64, 63, 43);
+     }
+     .main3 .s
+     {
+        position: relative;
+        top: 85px;
+        left: 5%;
+     }
+     .main3 .sus
+     {
+        position: relative;
+        top: 85px;
+        padding-left: 17.5%;
+    
+     }
+     .main3 .z
+     {
+        position: relative;
+        top: -75px;
+        left: 50%;
+     }
+     .main3 .veg
+     {
+        position: relative;
+        top: -75px;
+    
+        padding-left: 65%;
+     }
+     .main3 .v
+     {
+        height: 100px;
+        position: relative;
+        top: -5px;
+        left: 5%;
+     }
+     .main3 .rec
+     {
+        position: relative;
+        top: -5px;
+        padding-left: 10%;
+    
+     }
+     .main3 .rey
+     {
+        height: 100px;
+        position: relative;
+        top: -130px;
+        left: 40%;
+     }
+     .main3 .trade
+     {
+        position: relative;
+        top: -130px;
+    
+        padding-left: 45%;
+     }
+     .main3 .fair
+     {
+        height: 100px;
+        position: relative;
+        top: -250px;
+        left: 70%;
+     }
+     .main3 .waste
+     {
+        position: relative;
+        top: -255px;
+    
+        padding-left: 74%;
+     }
+     .main3 .p
+     {
+        position: relative;
+        bottom: 220px;
+    
+        word-spacing: 3.5px;
+        height: 100px;
+        width: 90%;
+        margin: auto;
+    
+     }
+     .main3 .p1
+     {
+        position: relative;
+        bottom: 120px;
+    
+        word-spacing: 3.5px;
+        height: 100px;
+        width: 90%;
+        margin: auto;
+    
+     }
+     .main3 .mo
+     {
+        height: 43px;
+        width: 130px;
+        border-radius: 20px;
+        border: none;
+        background-color: rgb(64, 63, 43);
+        position: relative;
+        bottom: 20%;
+        left: 30%;
+     }
+     .main3 .mo .i
+     {
+        color: white;
+     }
+     .line2
+     {
+        height: 450px;
+        width: 95%;
+        /* margin: auto; */
+        /* display: flex; */
+    
+        background-color: rgb(254, 250, 240);
+     }
+    .line2 .week
+     {
+        position: relative;
+        top: -1150px;
+        height: 500px;
+        width: 92%;
+        /* border: 10px solid black; */
+        margin-top: 18%;
+        left: -28px;
+        /* margin-left: .3%; */
+        border-radius: 50px;
+        /* margin: auto; */
+        background-image: url(img/weekend\ sale.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+        /* border: 1px solid black; */
+     }
+     .line2 .week .happ
+     {
+        color: white;
+        font-size: 35px;
+        position: relative;
+        top: 30%;
+        margin-left: 2%;
+     }
+     .line2 .week .sale
+     {
+        color: white;
+        font-size: 60px;
+        position: relative;
+        top: 30%;
+        margin-right: 8%;
+        color: rgb(196, 193, 151);
+     }
+     .line2 .week .sh
+     {
+        height: 43px;
+        width: 180px;
+        border-radius: 20px;
+        position: relative;
+        top: 35%;
+        cursor: pointer;
+        border: none;
+        margin-left: 10%;
+     }
+     .border4 {
+        height: 1450px;
+        width: 100%;
+        background-color: rgb(232, 229, 155);
+    
+        position: relative;
+        top: -1050px;
+    
+    }
+    
+    .follow {
+        position: relative;
+        top: 15px;
+    
+        padding-left: 35%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: rgb(64, 63, 43);
+    }
+    
+    .aq {
+        position: relative;
+        top: 15px;
+        color: rgb(64, 63, 43);
+        font-size: 40px;
+        left: 35%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    .img1 {
+        height: 200px;
+        width: 200px;
+    
+        position: relative;
+        top: 25px;
+        left: 3%;
+        border-radius: 20px;
+        background-image: url(img/img1.png);
+        background-position: center;
+        background-size: cover;
+    }
+    
+    .img2 {
+        height: 200px;
+        width: 200px;
+    
+        position: relative;
+        top: -165px;
+        left: 55%;
+        border-radius: 20px;
+        background-image: url(img/img2.png);
+        background-position: center;
+        background-size: cover;
+    }
+    
+    .img3 {
+        height: 200px;
+        width: 200px;
+    
+        position: relative;
+        top: -155px;
+        left: 3%;
+        border-radius: 20px;
+        background-image: url(img/img3.png);
+        background-position: center;
+        background-size: cover;
+    }
+    
+    .img4 {
+        height: 200px;
+        width: 200px;
+    
+        position: relative;
+        top: -360px;
+        left: 55%;
+        border-radius: 20px;
+        background-image: url(img/img4.png);
+        background-position: center;
+        background-size: cover;
+    } 
+    
+    .border5 {
+        height: 1px;
+        width: 100%;
+        border: 1px solid black;
+        /* background-color: black; */
+        position: relative;
+        top: -285px;
+    }
+    
+    .stay {
+        position: relative;
+        top: -250px;
+        padding-left: 6%;
+    
+        font-size: 40px;
+        color: rgb(64, 63, 43);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    .receive {
+        position: relative;
+        top: -200px;
+        padding-left: 6%;
+    
+        font-size: 20px;
+        color: rgb(64, 63, 43);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    .em {
+        position: relative;
+        top: -133px;
+        left: 6%;
+    }
+    
+    .in {
+        position: relative;
+        top: -120px;
+        /* left: 2.5%; */
+        width: 90%;
+        margin-left: 25px;
+        height: 45px;
+        background-color: rgb(232, 229, 155);
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: 0.5px solid black;
+    }
+    
+    .sub {
+        position: relative;
+        top: -80px;
+        left: 0%;
+        height: 60px;
+        width: 100%;
+        border-radius: 50px;
+        background-color: rgb(232, 229, 155);
+        color: rgb(64, 63, 43);
+        font-size: 25px;
+        cursor: pointer;
+    }
+    
+    .sub:hover {
+        background-color: rgb(64, 63, 43);
+        color: rgb(232, 229, 155);
+        border: none;
+        cursor: pointer;
+    } 
+    
+    .home1 {
+        position: relative;
+        top: -50px;
+        left: 10%;
+    }
+    
+    .all {
+        position: relative;
+        top: -45px;
+       left: 10%;
+       word-spacing: 2px;
+    }
+    
+    .mission {
+        position: relative;
+        top: -40px;
+        left: 10%;
+    } 
+    
+    .contact {
+        position: relative;
+        top: -38px;
+        /* left: -32%; */
+    } 
+     
+    .faq {
+        position: relative;
+        top: -40px;
+        /* left: -42%; */
+    } 
+    
+    .ki {
+        position: relative;
+        top: -150px;
+    
+        /* left: -4%; */
+    }
+     
+    .bh {
+        position: relative;
+        top: -150px;
+        /* left: 210px; */
+    }
+    
+    .og {
+        position: relative;
+        top: -150px;
+        /* left: 36%; */
+    
+    } 
+    
+    .sale {
+        position: relative;
+        top: -150px;
+        /* left: 22%; */
+    } 
+    
+    .tc {
+        position: relative;
+        top: -80px;
+        /* left: -145px; */
+    }
+    
+    .pp {
+        position: relative;
+        top:-80px;
+        /* left: -260px; */
+    } 
+    
+    .spn {
+        position: relative;
+        top: -80px;
+        /* left: -65%; */
+    } 
+    
+    .rp {
+        position: relative;
+        top: -80px;
+        /* left: 45px; */
+    } 
+    
+    .cp {
+        position: relative;
+        top: -80px;
+        /* left: -46px; */
+    }
+}
+@media(min-width:1496px)
+{
+    *{
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+    }
+    body
+    {
+        height: 100vh;
+        background-color: rgb(254, 250, 240);
+    }
+    .navbar
+    {
+        width: 100%;
+    }
+    .navbar .navbarlist
+    {
+        height: 60px;
+        width: 80%;
+    
+        margin: auto;
+    }
+    ul
+    {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px 10px;
+    }
+    ul li
+    {
+        list-style: none;
+    }
+    ul li a
+    {
+        color:black;
+        text-decoration: none;
+    
+    }
+    .line
+    {
+        height: 1016px;
+        width: 100%;
+    
+    }
+    .line .revert
+    {
+        height: auto;
+        width: 100%;
+    }
+    .line .re
+    {
+    
+        position: relative;
+        transform: translate(-50 -50);
+        color: rgb(255, 253, 195);
+        bottom: 600px;
+        text-align: center;
+    
+        font-size: 200px;
+    }
+    .line .home
+    {
+        color: white;
+        font-size: 35px;
+        position: relative;
+        bottom:550px;
+        padding-left: 22%;
+    }
+    .line .sn
+    {
+        position: relative;
+        bottom: 200px;
+        height: 40px;
+        width: 120px;
+        border-radius: 20px;
+        border: none;
+        cursor: pointer;
+        top:7%;
+        left: 20%;
+    }
+    .new
+    {
+        position: relative;
+        top: 10px;
+        text-align: center;
+    
+        font-size: 30px;
+    }
+    .main
+    {
+        position: relative;
+        height: 500px;
+        width: 90%;
+        background-color: rgb(254, 250, 240);
+    
+        margin: auto;
+        top: 45px;
+        display: flex;
+    }
+    a
+    {
+        text-decoration: none;
+        color: black;
+    }
+    .main .glass
+    {
+        height: 350px;
+        width: 280px;
+        border-radius: 20px;
+        position: relative;
+        top: -10px;
+        left: -180px;
+        /* margin-left: -25%; */
+    }
+    .main .eco
+    {
+        position: relative;
+        top: -10px;
+        padding-left: 70px;
+        /* padding-left: 1px; */
+    }
+    .main .d1
+    {
+        position: relative;
+        top: -10px;
+        padding-left: 70px;
+        /* padding-left: 25px; */
+    }
+    .main .soap
+    {
+        height: 350px;
+        width: 280px;
+        border-radius: 20px;
+        position: relative;
+        top: -400px;
+        left: 12%;
+    }
+    .main .natural
+    {
+        position: relative;
+        top: -400px;
+        padding-left: 150px;
+        /* margin-left: -290px; */
+        /* padding-right: -125px; */
+        /* text-align: end; */
+    }
+    .main .d2
+    {
+        position: relative;
+        top: -400px;
+        padding-left: 125px;
+        /* margin-left: -250px; */
+    }
+    .main .bottle
+    {
+        height: 350px;
+        width: 280px;
+        border-radius: 20px;
+        position: relative;
+        top: -800px;
+        left: 500px;
+        /* margin-left: 0px; */
+    }
+    .main .stainless
+    {
+        position: relative;
+        top: -800px;
+        /* margin-left: 10px; */
+
+        padding-left: 700px;
+        /* padding-left: 85px; */
+        /* margin-left: 210px; */
+    }
+    .main .d3
+    {
+        position: relative;
+        top: -800px;
+        /* padding-left: 280px; */
+        padding-left: 700px;
+        /* margin-left: 29px; */
+    }
+    .main .sponge
+    {
+        height: 350px;
+        width: 280px;
+        border-radius: 20px;
+        position: relative;
+        top: -1199px;
+        left: 840px;
+    }
+    .main .kitchen
+    {
+        position: relative;
+        top: -1200px;
+        padding-left: 820px;
+        width: 75%;
+        /* margin-left: 20px; */
+    }
+    .main .d4
+    {
+        position: relative;
+        top: -1198px;
+        padding-left: 820px;
+        /* margin-left: 50px; */
+    }
+    
+     .two
+     {
+        position: relative;
+        top: -20px;
+        height: 700px;
+        width: 100%;
+    
+        background-color: rgb(196, 193, 151);
+     }
+     .two .waste
+     {
+        position: relative;
+        font-size: 75px;
+        top: 200px;
+        padding-left: 5%;
+        color: rgb(64, 63, 43);
+    
+     }
+     .two .friendly
+     {
+        position: relative;
+        font-size: 23px;
+        top: 200px;
+        padding-left: 5%;
+    
+     }
+     .two .zero
+     {
+        position: relative;
+        height: 500px;
+        width: 550px;
+        border-radius: 50px ;
+    
+        top: -90px;
+        left: 50%;
+    
+     }
+     .two .now
+     {
+        height: 45px;
+        width: 120px;
+        border: none;
+        border-radius: 20px;
+        position: relative;
+        bottom: 30%;
+        left: -30%;
+        background-color: rgb(64, 63, 43);
+    
+     }
+     .two .s
+     {
+        color: white;
+     }
+     .shop
+     {
+        position: relative;
+        top: 25px;
+        padding-left: 40%;
+    
+        
+     }
+     .main2
+     {
+        height: auto;
+        width: 90%;
+    
+        margin: auto;
+        position: relative;
+        top: 120px;
+        display: flex;
+        background-color: rgb(254, 250, 240);
+     }
+     .main2 .box5
+     {
+        height: 350px;
+        width: 380px;
+    
+        position: relative;
+        border-radius: 20px;
+        top: -25px;
+        left: 50px;
+        background-image: url(img/kitchen.jpg);
+        background-position: center;
+        background-size: cover;
+    
+     }
+     .main2 .k
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 50px;
+        top: 35%;
+        /* left: 95px; */
+        padding-left: 75px;
+     }
+     .main2 .k1
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 20px;
+        top: 40%;
+        padding-left: 75px;
+        /* left: 95px; */
+     }
+     .main2 .box6
+     {
+        height: 350px;
+        width: 380px;
+    
+        position: relative;
+        border-radius: 20px;
+        top: -375px;
+        left: 480px;
+        background-image: url(img/bath.jpg);
+        background-position: center;
+        background-size: cover;
+     }
+     .main2 .l
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 50px;
+        top: 35%;
+        padding-left: 95px;
+        /* left: 100px; */
+     }
+     .main2 .l1
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 20px;
+        top: 40%;
+        padding-left: 95px;
+        /* left: 100px; */
+     }
+     .main2 .box7
+     {
+        height: 350px;
+        width: 380px;
+    
+        position: relative;
+        border-radius: 20px;
+        top: -725px;
+        left: 900px;
+        background-image: url(img/on\ the\ go.jpg);
+        background-position: center;
+        background-size: cover;
+     }
+     .main2 .m
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 50px;
+        top: 35%;
+        margin-left: -30px;
+        /* padding-left: -10%; */
+        /* left: 110px; */
+     }
+     .main2 .m1
+     {
+        position: relative;
+        color: rgb(0, 0, 0);
+        font-size: 20px;
+        top: 40%;
+        margin-left: -20px;
+        /* left: 150px; */
+     }
+     .main3
+     {
+        height: 900px;
+        width: 100%;
+    
+        background-color: rgb(221, 221, 204);
+        position: relative;
+        top: -550px;
+     }
+     .main3 .r
+     {
+        position: relative;
+        top: 65px;
+    
+        padding-left: 35%;
+        font-size:26px;
+        color: rgb(64, 63, 43);
+     }
+     .main3 .we
+     {
+        position: relative;
+        top: 75px;
+        padding-left: 25%;
+    
+        font-size:26px;
+        color: rgb(64, 63, 43);
+     }
+     .main3 .s
+     {
+        position: relative;
+        top: 85px;
+        left: 15%;
+     }
+     .main3 .sus
+     {
+        position: relative;
+        top: 85px;
+        padding-left: 17.5%;
+    
+     }
+     .main3 .z
+     {
+        position: relative;
+        top: -75px;
+        left: 30%;
+     }
+     .main3 .veg
+     {
+        position: relative;
+        top: -75px;
+    
+        padding-left: 33%;
+     }
+     .main3 .v
+     {
+        height: 120px;
+        position: relative;
+        top: -220px;
+        left: 45%;
+     }
+     .main3 .rec
+     {
+        position: relative;
+        top: -220px;
+        padding-left: 48%;
+    
+     }
+     .main3 .rey
+     {
+        height: 120px;
+        position: relative;
+        top: -360px;
+        left: 59%;
+     }
+     .main3 .trade
+     {
+        position: relative;
+        top: -360px;
+    
+        padding-left: 61%;
+     }
+     .main3 .fair
+     {
+        height: 120px;
+        position: relative;
+        top: -500px;
+        left: 72%;
+     }
+     .main3 .waste
+     {
+        position: relative;
+        top: -500px;
+    
+        padding-left: 74%;
+     }
+     .main3 .p
+     {
+        position: relative;
+        bottom: 45%;
+    
+        word-spacing: 3.5px;
+        height: 100px;
+        width: 55%;
+        margin: auto;
+    
+     }
+     .main3 .p1
+     {
+        position: relative;
+        bottom: 41%;
+    
+        word-spacing: 3.5px;
+        height: 100px;
+        width: 55%;
+        margin: auto;
+    
+     }
+     .main3 .mo
+     {
+        height: 43px;
+        width: 130px;
+        border-radius: 20px;
+        border: none;
+        background-color: rgb(64, 63, 43);
+        position: relative;
+        bottom: 35%;
+        left: 44%;
+     }
+     .main3 .mo .i
+     {
+        color: white;
+     }
+     .line2
+     {
+        height: 1150px;
+        width: 100%;
+    
+        background-color: rgb(254, 250, 240);
+     }
+    .line2 .week
+     {
+        position: relative;
+        top: -730px;
+        height: 800px;
+        width: 90%;
+        margin-top: 18%;
+        margin-left: 5%;
+        border-radius: 50px;
+        background-image: url(img/weekend\ sale.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+        border: 1px solid black;
+     }
+     .line2 .week .happ
+     {
+        color: white;
+        font-size: 40px;
+        position: relative;
+        top: 30%;
+        left: 40%;
+     }
+     .line2 .week .sale
+     {
+        color: white;
+        font-size: 180px;
+        position: relative;
+        top: 35%;
+        left: 3%;
+        color: rgb(196, 193, 151);
+     }
+     .line2 .week .sh
+     {
+        height: 43px;
+        width: 180px;
+        border-radius: 20px;
+        position: relative;
+        top: 40%;
+        cursor: pointer;
+        border: none;
+        left: 40%;
+     }
+     .border4 {
+        height: auto;
+        width: 100%;
+        background-color: rgb(232, 229, 155);
+    
+        position: relative;
+        bottom: -2.5%;
+    
+    }
+    
+    .follow {
+        position: relative;
+        top: 10px;
+    
+        padding-left: 45%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: rgb(64, 63, 43);
+    }
+    
+    .aq {
+        position: relative;
+        top: 15px;
+        color: rgb(64, 63, 43);
+        font-size: 85px;
+        padding-left: 5%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    .img1 {
+        height: 250px;
+        width: 250px;
+    
+        position: relative;
+        top: 150px;
+        left: 5%;
+        border-radius: 20px;
+        background-image: url(img/img1.png);
+        background-position: center;
+        background-size: cover;
+    }
+    
+    .img2 {
+        height: 250px;
+        width: 250px;
+    
+        position: relative;
+        top: -85px;
+        left: 27%;
+        border-radius: 20px;
+        background-image: url(img/img2.png);
+        background-position: center;
+        background-size: cover;
+    }
+    
+    .img3 {
+        height: 250px;
+        width: 250px;
+    
+        position: relative;
+        top: -332px;
+        left: 49%;
+        border-radius: 20px;
+        background-image: url(img/img3.png);
+        background-position: center;
+        background-size: cover;
+    }
+    
+    .img4 {
+        height: 250px;
+        width: 250px;
+    
+        position: relative;
+        top: -580px;
+        left: 72%;
+        border-radius: 20px;
+        background-image: url(img/img4.png);
+        background-position: center;
+        background-size: cover;
+    } 
+    
+    .border5 {
+        height: 1px;
+        width: 100%;
+        border: 1px solid black;
+        background-color: black;
+        position: relative;
+        top: -550px;
+    }
+    
+    .stay {
+        position: relative;
+        top: -500px;
+        padding-left: 6%;
+    
+        font-size: 65px;
+        color: rgb(64, 63, 43);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    .receive {
+        position: relative;
+        top: -455px;
+        padding-left: 6%;
+    
+        font-size: 20px;
+        color: rgb(64, 63, 43);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    .em {
+        position: relative;
+        top: -450px;
+        left: 6%;
+    }
+    
+    .in {
+        position: relative;
+        top: -410px;
+        left: 0.5%;
+        width: 30%;
+        height: 45px;
+        background-color: rgb(232, 229, 155);
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: 0.5px solid black;
+    }
+    
+    .sub {
+        position: relative;
+        top: -320px;
+        left: -10%;
+        height: 60px;
+        width: 10%;
+        border-radius: 50px;
+        background-color: rgb(232, 229, 155);
+        color: rgb(64, 63, 43);
+        font-size: 25px;
+        cursor: pointer;
+    }
+    
+    .sub:hover {
+        background-color: rgb(64, 63, 43);
+        color: rgb(232, 229, 155);
+        border: none;
+        cursor: pointer;
+    } 
+    
+    /* .home1 {
+        position: relative;
+        top: 520px;
+        left: 15%;
+    }
+    
+    .all {
+        position: relative;
+        top: -500px;
+       left: 11.5%;
+       word-spacing: 2px;
+    }
+    
+    .mission {
+        position: relative;
+        top: -480px;
+        left: 7.3%;
+    } 
+    
+    .contact {
+        position: relative;
+        top: -460px;
+        left: 1.6%;
+    } 
+     
+    .faq {
+        position: relative;
+        top: -440px;
+        left: -2%;
+    } 
+    
+    .ki {
+        position: relative;
+        top: -520px;
+    
+        left: 4.5%;
+    }
+     
+    .bh {
+        position: relative;
+        top: -500px;
+        left: 1%;
+    }
+    
+    .og {
+        position: relative;
+        top: -480px;
+        right: 1.4%;
+    
+    } 
+    
+    .sale {
+        position: relative;
+        top: -460px;
+        right: 6%;
+    } 
+    
+    .tc {
+        position: relative;
+        top: -525px;
+        right: 1%;
+    }
+    
+    .pp {
+        position: relative;
+        top: -506px;
+        right: 8.7%;
+    } 
+    
+    .sp {
+        position: relative;
+        top: -539px;
+        right: -20%;
+        right: 9%;
+    } 
+    
+    .rp {
+        position: relative;
+        top: -539;
+        right: 21.8%;
+    } 
+    
+    .cp {
+        position: relative;
+        top: -28%;
+        right: -72%;
+    } */
+     .home1
+     {
+        position: relative;
+        top: -255px;
+        left: -35%;
+     }
+     .all
+     {
+        position: relative;
+        top: -270px;
+        left: 155px;
+     }
+     .mission
+     {
+        position: relative;
+        top: -270px;
+        left: 155px;
+     }
+     .contact
+     {
+        position: relative;
+        top: -270px;
+        left: 155px;
+     }
+     .faq
+     {
+        position: relative;
+        top: -270px;
+        left: 155px;
+     }
+     .ki
+     {
+        position: relative;
+        top: -368px;
+        left: 355px;
+     }
+     .bh
+     {
+        position: relative;
+        top: -368px;
+        left: 355px;
+     }
+     .og
+     {
+        position: relative;
+        top: -368px;
+        left: 355px;
+     }
+     .sale
+     {
+        position: relative;
+        top: -368px;
+        left: 355px;
+     }
+     .tc{
+        position: relative;
+        top: -442px;
+        left: 500px;
+     }
+     .pp{
+        position: relative;
+        top: -442px;
+        left: 500px;
+     }
+     .spn{
+        position: relative;
+        top: -442px;
+        left: 500px;
+     }
+     .rp{
+        position: relative;
+        top: -442px;
+        left: 500px;
+     }
+     .cp{
+        position: relative;
+        top: -442px;
+        left: 500px;
+     }
+     
+
+}
